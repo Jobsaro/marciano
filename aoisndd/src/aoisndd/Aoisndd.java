@@ -16,12 +16,13 @@ public class Aoisndd {
     public static void main(String[] args) {
         // TODO code application logic heresaaaaaa
         s
-                s
-                s
-                        s
-                        s
-                                s
+              f
+                f
+                        f
+                        f
+                                f
                                 
+                                f
     }
     
 }
